@@ -2320,11 +2320,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C025297004NGDVVJA</string>
+			<string>C02753700QXGDVVA8</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>qEMFDfCF</data>
+			<data>aPco/t3E</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -2332,9 +2332,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro12,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Q30P1H1DP</string>
+			<string>C02VX0R8H1DP</string>
 			<key>SystemUUID</key>
-			<string>E8A0E095-702F-42BA-A8D8-31E0DC27EF0F</string>
+			<string>AF23D360-69F1-4013-BF44-B5768D604CC0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
